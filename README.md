@@ -30,8 +30,8 @@
 | Company | Role | Location | Application |
 |---|---|---|---|
 | Centene-centene External | Contract Analyst III | Remote | [Apply](https://centene.wd1.myworkdayjobs.com/centene_external/job/Remote-IL/Contract-Analyst-III_1568128-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Adventist | MD Staff Rev Cycle Senior Analyst | Seminole County, Florida | [Apply](https://adventist.taleo.net/careersection/ahs/jobdetail.ftl?job=25030634&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Hubspotjobs | Senior Business Systems Analyst, AI | Remote | [Apply](https://www.hubspot.com/careers/jobs/7081506?gh_jid=7081506&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Adventist | MD Staff Rev Cycle Senior Analyst | Seminole County, Florida | [Apply](https://adventist.taleo.net/careersection/ahs/jobdetail.ftl?job=25030634&lang=en&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Gofundme | Lead Financial Analyst | Remote | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/7166414?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Idemia | Business Systems Analyst IV | Remote | [Apply](https://uscareers-idemia.icims.com/jobs/8107/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Wexinc-wexinc | Compliance Analyst | Remote | [Apply](https://wexinc.wd1.myworkdayjobs.com/wexinc/job/US---Remote/Compliance-Analyst_R19096?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -107,29 +107,29 @@
 | Kustomer | Data Engineer (Senior level) | Remote | [Apply](https://jobs.ashbyhq.com/kustomer/91c24d96-ffed-4746-a279-369e450a897b?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Zoom-zoom | Big Data Engineer | San Jose, California | [Apply](https://zoom.wd1.myworkdayjobs.com/zoom/job/Remote--US/Big-Data-Engineer_R17206-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Securityscorecard | Senior Staff Data Engineer | Remote | [Apply](https://securityscorecard.com/company/careers-list/?gh_jid=7188510&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Tabby | Senior Data Engineer | Remote | [Apply](https://tabby.pinpointhq.com/en/postings/a1b9a573-c2e9-4d30-9436-c317a39bd9c4?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Emvo.fa.us2 | Senior, Data Engineer | Remote | [Apply](https://emvo.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/3370?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Tabby | Senior Data Engineer | Remote | [Apply](https://tabby.pinpointhq.com/en/postings/a1b9a573-c2e9-4d30-9436-c317a39bd9c4?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Aimpoint-digital | Platform Services Engineer 2025 | Atlanta, Georgia | [Apply](https://aimpoint-digital.breezy.hr/p/92719a80a559-platform-services-engineer-2025?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Keydatacyber | ETL Engineer (Oracle Data Integration) | Remote | [Apply](http://keydatacyber.com/careers?gh_jid=4601454005&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Keydatacyber | ETL Engineer (Oracle Data Integration) | Remote | [Apply](http://keydatacyber.com/careers?gh_jid=4601455005&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Stewart-external | Senior Test Engineer | Remote | [Apply](https://stewart.wd1.myworkdayjobs.com/external/job/USA-TX---Remote/Senior-Test-Engineer_JR106126?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | External-job-board | Senior Application Engineer – Data Center Focused | Remote | [Apply](https://ats.rippling.com/external-job-board/jobs/1a062842-489a-4cea-964f-cfacc4adff83?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Qinetiqus | Cloud Data Engineer | Remote | [Apply](https://careers-qinetiqus.icims.com/jobs/11701/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Heb | Data Engineer II | Austin, Texas | [Apply](https://careers.heb.com/jobs/171293/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Fa-evly-saasfaprod1.fa.ocs | Senior Data Engineer | Remote | [Apply](https://fa-evly-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/303696?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Qinetiqus | Cloud Data Engineer | Remote | [Apply](https://careers-qinetiqus.icims.com/jobs/11701/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Careers-govcio | Data Engineer (Remote) | Remote | [Apply](https://careers-govcio.icims.com/jobs/6517/data-engineer-%28remote%29/job?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cvshealth-cvs Health Careers | Staff Security Machine Learning Engineer | Remote | [Apply](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/CA---Work-from-home/Staff-Security-Machine-Learning-Engineer_R0662334?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cvshealth-cvs Health Careers | Data Engineer | Remote | [Apply](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/Work-At-Home-New-Jersey/Data-Engineer_R0686874?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Cvshealth-cvs Health Careers | Sr Data Engineer | Remote | [Apply](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/OH---Work-from-hom/Sr-Data-Engineer_R0683187?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Visitingnurseserviceofnewyorkdbavnshealth | Data Engineer | City of New York, New York | [Apply](https://jobs.vnshealth.org/careers-home/jobs/3703/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Gdit-external Career Site | Data Engineer SME | Remote | [Apply](https://gdit.wd1.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Data-Engineer-SME_RQ206233-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Visitingnurseserviceofnewyorkdbavnshealth | Data Engineer | City of New York, New York | [Apply](https://jobs.vnshealth.org/careers-home/jobs/3703/job?iis=Job+Board&iisn=HiringCafe&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Accompanyhealth | Data Engineer | Remote | [Apply](https://jobs.lever.co/AccompanyHealth/f3cf0c7c-5656-4139-88a5-9f3bf38f3f55?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Com Modinemanu | Product Engineer (Remote, US) | Remote | [Apply](https://careers.modine.com/job/Remote-Product-Engineer/1279910400/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Ripplcare | Healthcare Data Engineer (Remote) | Seattle, Washington | [Apply](https://www.ripplcare.com/careers-openroles?gh_jid=4840322007&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Houserx | Data Engineer | Remote | [Apply](https://www.houserx.com/careers?gh_jid=4601975005&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Com Modinemanu | Product Engineer (Remote, US) | Remote | [Apply](https://careers.modine.com/job/Remote-Product-Engineer/1279910400/?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Turnertownsend | Cost Engineer – Data Center Construction | Milwaukee, Wisconsin | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000077976823?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Turnertownsend | Cost Engineer – Data Center Construction | Gilbert, Arizona | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000077985531?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Turnertownsend | Cost Engineer – Data Center Construction | Phoenix, Arizona | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000077976735?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Houserx | Data Engineer | Remote | [Apply](https://www.houserx.com/careers?gh_jid=4601975005&utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Blend360 | Sr. ML Engineer | Columbia, Maryland | [Apply](https://jobs.smartrecruiters.com/Blend360/744000078184516?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Veoliaenvironnementsa | Field Service Engineer | San Diego, California | [Apply](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000078171448?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Ebwh.fa.us2 | Associate, Industrial Engineer | Duluth, Georgia | [Apply](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/79530?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
@@ -197,10 +197,10 @@
 | Sharecare-sharecare Careers | Payor Data Analyst | Atlanta, Georgia | [Apply](https://sharecare.wd1.myworkdayjobs.com/sharecare_careers/job/Remote/Payor-Data-Analyst--Remote_R-101385?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Ertr.fa.us2 | Data Integrity Analyst | Denver, Colorado | [Apply](https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/106719?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Becu-external | Sr Data Governance Analyst | Remote | [Apply](https://becu.wd1.myworkdayjobs.com/external/job/Remote-WA/Sr-Data-Governance-Analyst_R-11953?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
-| Careers-peraton | Public Health Research/ Data Analyst | Remote | [Apply](https://careers-peraton.icims.com/jobs/159254/public-health-research--data-analyst/job?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Centene-centene External | Healthcare Analytics Data Analyst II | Remote | [Apply](https://centene.wd1.myworkdayjobs.com/centene_external/job/Remote-MO/Healthcare-Analytics-Data-Analyst-II_1592921-1?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Centene-centene External | Data Analyst II Healthcare Analytics | Remote | [Apply](https://centene.wd1.myworkdayjobs.com/centene_external/job/Remote-MO/Data-Analyst-II-Healthcare-Analytics_1590132?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Centene-centene External | Data Analyst III Healthcare Analytics | Remote | [Apply](https://centene.wd1.myworkdayjobs.com/centene_external/job/Remote-MO/Data-Analyst-III-Healthcare-Analytics_1586836?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
+| Careers-peraton | Public Health Research/ Data Analyst | Remote | [Apply](https://careers-peraton.icims.com/jobs/159254/public-health-research--data-analyst/job?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Gomotive | HR Data Analyst | Remote | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/7938681002?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Davita-dkc External | Sr Business Analyst | Irvine, California | [Apply](http://davita.wd1.myworkdayjobs.com/dkc_external/job/02896---The-Grove-Irvine-Corp-West-Admin/Sr-Business-Analyst_R0413656?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
 | Davita-dkc External | Analyst, Data Management (ROPS) | Denver, Colorado | [Apply](http://davita.wd1.myworkdayjobs.com/dkc_external/job/05555---Casa-del-Mundo-Office-Denver-HQ/Analyst--Data-Management--ROPS-_R0418413?utm_source=reddit&utm_medium=organic&utm_campaign=wfhjobs) |
